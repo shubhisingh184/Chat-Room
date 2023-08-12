@@ -1,9 +1,10 @@
 # Chat Room
+A chat room is an online platform that enables users to communicate with each other in real time. Chat rooms are typically hosted on a server with an internet connection. Here, by using this Phoenix Liveview, we can do this easily.
 
 ## Tech Stack : 
 Elixir, Phoenix Framework and PostgreSQL Database
 
-A chat room is an online platform that enables users to communicate with each other in real time. Chat rooms are typically hosted on a server with an internet connection. Here, by using this Phoenix Liveview, we can do this easily.
+
 
 To start your Phoenix server:
 
